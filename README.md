@@ -1,2 +1,2 @@
 # .github
-Abouut Us
+About Us
