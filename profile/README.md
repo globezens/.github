@@ -3,7 +3,7 @@
 ![banner](https://raw.githubusercontent.com/globezens/.github/main/profile/banner.png)
 
 ## About
-So yeah, this organization is made by and for students who study at [BVM](http://www.bvmglobal.org/index.aspx). You can find almost all of our good* school web projects here. We from now aim to build projects that will be useful and not trash. Thank You And Have A Nice Day. 
+Yes, this organization is made by and for students who study at [BVM](http://www.bvmglobal.org/index.aspx). You can find almost all of our good* school web projects here. We from now aim to build projects that will be useful and not trash. Thank You And Have A Nice Day. 
 
 ## Members
 
