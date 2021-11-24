@@ -1,12 +1,20 @@
-## Hello Internet! 👋
+## Hello Internet! 👋<br>
 
-<!--
+![banner](https://github.com/globezens/.github/tree/main/profile/banner)
 
-**Here are some ideas to get you started:**
+## About
+So yeah, this organization is made by and for students who study at [BVM](http://www.bvmglobal.org/index.aspx). You can find almost all of our good* school web projects here. We from now aim to build projects that will be useful and not trash. Thank You And Have A Nice Day. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Members
+
+The People who work currently to uplift the organization are:
+
+### - [San](https://github.com/0baa)<br/>
+<img src="https://avatars.githubusercontent.com/u/71178439?v=4" alt="0baa" width="100px" height="100px"> 
+
+### -[SilentCoder13](https://github.com/SilentCoder13)
+<img src="https://avatars.githubusercontent.com/u/83856111?v=4" alt="SC13" width="100px" height="100px"> 
+
+<hr>
+
+**Okay they are not that good*
