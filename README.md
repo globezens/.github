@@ -9,11 +9,14 @@ Yes, this organization is made by and for students who study at [BVM](http://www
 
 The People who work currently to uplift the organization are:
 
-### - [San](https://github.com/0baa)<br/>
+### - [San](https://github.com/chappandi)<br/>
 <img src="https://avatars.githubusercontent.com/u/71178439?v=4" alt="0baa" width="100px" height="100px"> 
 
 ### -[SilentCoder13](https://github.com/SilentCoder13)
-<img src="https://avatars.githubusercontent.com/u/83856111?v=4" alt="SC13" width="100px" height="100px"> 
+<img src="https://avatars.githubusercontent.com/u/83856111?v=4" alt="SC13" width="100px" height="100px">
+
+### -[Satvik-web](https://github.com/Satvik-Web)
+<img src="https://avatars.githubusercontent.com/u/72124172?v=4" alt="SC13" width="100px" height="100px">
 
 <hr>
 
