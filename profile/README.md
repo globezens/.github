@@ -14,4 +14,7 @@ The People who work currently to uplift the organization are:
 ### -[SilentCoder13](https://github.com/SilentCoder13)
 <img src="https://avatars.githubusercontent.com/u/83856111?v=4" alt="SC13" width="100px" height="100px"> 
 
+### - [Satvik-Web](https://github.com/Satvik-web)
+<img src="https://avatars.githubusercontent.com/u/72124172?v=4" alt="SC13" width="100px" height="100px">
+
 ***We upload projects infrequently.***&nbsp;<sub>And we need to update our banner and pfp.</sub>
