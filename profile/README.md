@@ -1,9 +1,9 @@
 ## Hello Internet! 👋<br>
 
-![banner](https://cdn.jsdelivr.net/gh/globezens/.github@main/profile/banner.png)
-
 ## About
 Yes, this organization is made by and for students who study at [BVM](http://www.bvmglobal.org/index.aspx). You can find almost all of our ***good*** school web projects here [And also other's which we want to share it with our community]. We hope that you enjoy them.
+
+![banner](https://cdn.jsdelivr.net/gh/globezens/.github@main/profile/banner.png)
 
 ## Members
 
